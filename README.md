@@ -1,4 +1,10 @@
 # BASE_DE_DATOS_G
+
+
+
+
+
+
 En este proyecto veremos reflejado los avances de como basarnos en una estructura de base de datos, como desarrollarla y como darla a conocer
 ¿ qu es un git?
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
